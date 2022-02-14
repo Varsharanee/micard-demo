@@ -1,6 +1,10 @@
 # flutter_micard_demo
 
 A new Flutter project.
+# screenshot 
+
+![Screenshot_1644823392](https://user-images.githubusercontent.com/87958491/153818215-ce0c4b1d-978b-49b7-81a3-e3464bb38fe8.png)
+
 
 ## Getting Started
 
